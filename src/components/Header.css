@@ -1,0 +1,11 @@
+.Header {
+  width: 100%;
+}
+input {
+  width: 75%;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px 0 !important;
+  text-align: center;
+}

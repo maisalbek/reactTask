@@ -1,0 +1,11 @@
+.ContactCard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+h5 {
+  margin: 0;
+}
+.cont {
+  margin: 10px 40px;
+}
